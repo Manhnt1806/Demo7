@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //cn1
         //cn1.1
+        //cn1.2
     }
 }
